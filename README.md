@@ -1,5 +1,5 @@
 # Video Conferencing App
-This is video conferencing app where you can talk or chat with your friends on a video or convey your thoughts with your friends.
+This is video conferencing app where you can talk or chat with your friends on a video or convey your thoughts with your friends.I have used jitsi server for video conferencing.
 
 ## Screenshots
 <!-- To set multiple images in grid view -->
@@ -55,7 +55,10 @@ This is video conferencing app where you can talk or chat with your friends on a
   - You can share your secret code with your friends to join the meeting.
 - <b>My Profile</b>
   - You can see your profile by clicking on profile icon from bottom navigation menu.
-  - You can update your profile and also you can update your password.
+  - In profile page you can 
+    - Update Your Profile
+    - Update Your Password
+    - Delete Your Account
   
 ## Installation
 - For installing `android studio` click on this link.
