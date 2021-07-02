@@ -3,12 +3,12 @@ This is video conferencing app where you can talk or chat with your friends on a
 
 ## Screenshots
 <!-- To set multiple images in grid view -->
-<!-- <table align="center">
+<table align="center">
   
   <tr>
     <td><b><i>Sign In Page</i></b></td>
     <td><b><i>Sign Up Page</i></b</td>
-    <td><b><i>Sign In/Up With Google</i></b></td>
+    <td><b><i>Reset Password</i></b></td>
   </tr>
       
   <tr>
@@ -18,61 +18,41 @@ This is video conferencing app where you can talk or chat with your friends on a
   </tr>
       
   <tr>
-    <td><b><i>Sign In/Up With Facebook</i></b></td>
-    <td><b><i>Sign In/Up With Phone</i></b></td>
-    <td><b><i>Select Your Country</i></b></td>
+    <td><b><i>Meeting Page</i></b></td>
+    <td><b><i>After Joining Meeting</i></b></td>
+    <td><b><i>Share Secret Code</i></b></td>
   </tr>
       
   <tr>
     <td><img src="/Images/Screenshot_4.jpg" width="250" height="500"></td>
+    <td><img src="/Images/Screenshot_5.jpg" width="250" height="500"></td>
     <td><img src="/Images/Screenshot_6.jpg" width="250" height="500"></td>
+  </tr>
+      
+  <tr>
+    <td><b><i>My Profile</i></b></td>
+    <td></td>
+    <td></td>
+  </tr>
+      
+  <tr>
     <td><img src="/Images/Screenshot_7.jpg" width="250" height="500"></td>
   </tr>
       
-  <tr>
-    <td><b><i>Reset Password</i></b></td>
-    <td><b><i>Chat Section</i></b></td>
-    <td><b><i>Search Your Friend</i></b></td>
-  </tr>
-      
-  <tr>
-    <td><img src="/Images/Screenshot_5.jpg" width="250" height="500"></td>
-    <td><img src="/Images/Screenshot_8.jpg" width="250" height="500"></td>
-    <td><img src="/Images/Screenshot_9.jpg" width="250" height="500"></td>
-  </tr>
-  
-  <tr>
-    <td><b><i>One To One Chat</i></b></td>
-    <td><b><i>Group Chat</i></b></td>
-    <td><b><i>My Profile</i></b></td>
-  </tr>
-      
-  <tr>
-    <td><img src="/Images/Screenshot_10.jpg" width="250" height="500"></td>
-    <td><img src="/Images/Screenshot_11.jpg" width="250" height="500"></td>
-    <td><img src="/Images/Screenshot_12.jpg" width="250" height="500"></td>
-  </tr>
-      
- </table> -->
+ </table>
 
 
 ## Features
 - <b>Sign In/Up With Email/Password</b>
   - If you don't have an account just go to sign up page and register yourself and then sign in.
   - If you already have an account then just sign in with your email & password.
-- <b>Sign In/Up With Google</b>
-  - If you want to sign in/up with your google account then that functionality is also available.
-  - Just click on google button to sign in/up with google.
-- <b>Sign In/Up With Facebook</b>
-  - If you want to sign in/up with your facebook account then that functionality is also available.
-  - Just click on facebook button to sign in/up with facebook.
 - <b>Forgot Password</b>
   - If you have forgot your password then you can also reset your password.
   - You have to enter your correct email address to receive password reset link and then click on that link to reset your password.
-- <b>One To One Chat</b>
-  - There is one to one chat functionality available where you can chat with any one of your friends or relatives.
-- <b>Group Chat</b>
-  - There is group chat functionality available where you can chat with all your group members.
+- <b>Join Or Create Meeting</b>
+  - You can join or create meeting by just writing secret code on the edit text box and then click on join button to start the meeting.
+- <b>Share Secret Code</b>
+  - You can share your secret code with your friends to join the meeting.
 - <b>My Profile</b>
   - You can see your profile by clicking on profile icon from bottom navigation menu.
   - You can update your profile and also you can update your password.
